@@ -13,9 +13,9 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "green"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2016 Jeongeun Lee"
   sidebarAbout = [
-    "Collection of little but big details of user experience in my daily life."
+    "Collection of little but big details of user experience in my daily life and travel."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -55,13 +55,13 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
+  #facebook      = "full page or profile url in facebook"
+  #googleplus    = "full profile url in googleplus"
   email         = "vcp.jeongeun@gmail.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  #twitter       = "full profile url in twitter"
+  #linkedin      = "full profile url in linkedin"
+  #stackoverflow = "full profile url in stackoverflow"
+  #instagram     = "full profile url in instagram"
+  #github        = "https://github.com/ljeun/"
+  #youtube       = "full profile url in youtube"
+  whatsapp      = "https://wa.me/358465552105"
