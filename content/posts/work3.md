@@ -1,10 +1,10 @@
 +++
-image = "images/03.jpeg"
-showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
-title = "Table that preserves space and get users focused"
 draft = false
-weight = 2
-target = "Aallon kirjasto"
-location = "Seinäjoki, Finland"
+image = "images/03.jpeg"
+date = "2016-11-05T19:56:17+05:30"
+title = "Discoverable hint for where to hold and turn"
+showonlyimage = false
+weight = 3
+target = "Hugendubel Bookstore"
+location = "Frankfurt, Germany"
 +++
